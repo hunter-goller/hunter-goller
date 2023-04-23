@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterg6700&" alt="hunterg6700" /></p>
 
 ## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
+I listen to a lot of songs on Spotify, so here my Spotify now playing status.
 **(If Something is not playing, it just shows static info of the previous played song)**
 
 <p align="center">
