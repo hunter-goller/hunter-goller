@@ -31,16 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterg6700&" alt="hunterg6700" /></p>
 
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status.
-**(If Something is not playing, it just shows static info of the previous played song)**
 
-<p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-  </p>
-    
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/HunterG6700"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/HunterG6700" /></a></p><br><br>
 
