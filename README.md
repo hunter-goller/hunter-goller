@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Java Helpdesk System](https://github.com/HunterG6700/Helpdesk)
 
-- 🌱 I’m currently learning **React, OpenCV**
+- 🌱 I’m currently learning **React, OpenCV, learning how to make fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://www.huntergoller.com/resume/#/about](https://www.huntergoller.com/resume/#/about)
 
