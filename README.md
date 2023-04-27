@@ -31,6 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterg6700&" alt="hunterg6700" /></p>
 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7rafjmvx347she2b2ab5rulq4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31g7rafjmvx347she2b2ab5rulq4&redirect=true)
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/HunterG6700"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/HunterG6700" /></a></p><br><br>
