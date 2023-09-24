@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterg6700&label=Profile%20views&color=0e75b6&style=flat" alt="hunterg6700" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunterg6700" alt="hunterg6700" /></a> </p>
-<a href="https://app.daily.dev/HUNTERO32"><img src="https://api.daily.dev/devcards/cc4be0c4d8c34c42b6ef852e70d992dc.png?r=g39" width="400" alt="Hunter Goller's Dev Card"/></a>
 
 - 🔭 I’m currently working on [Java Helpdesk System](https://github.com/HunterG6700/Helpdesk)
 
