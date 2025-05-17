@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunterg6700" alt="hunterg6700" /></a> </p>
 
-- 🌱 I’m currently learning **React, OpenCV, learning how to make fullstack projects**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.huntergoller.com/resume/#/about](https://www.huntergoller.com/resume/#/about)
 
