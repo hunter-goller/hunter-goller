@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter-goller" alt="hunter-goller" /></a> </p>
 
-- 🔭 I’m currently working on making a 3d printer filament inventory app [Spooly]([https://github.com/hunter-goller/Filament-app](https://github.com/hunter-goller/Spooly))
+- 🔭 I’m currently working on making a 3d printer filament inventory app: [Spooly](https://github.com/hunter-goller/Filament-app](https://github.com/hunter-goller/Spooly)
+
 
 - 🌱 I’m currently learning **Flutter**
 
