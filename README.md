@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hunter Goller</h1>
 <h3 align="center">A passionate developer looking to gain experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterg6700&label=Profile%20views&color=0e75b6&style=flat" alt="hunterg6700" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-goller&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-goller" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunterg6700" alt="hunterg6700" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter-goller" alt="hunter-goller" /></a> </p>
 
-- 🔭 I’m currently working on making a 3d printer filament inventory app [Filia Tracker](https://github.com/HunterG6700/Filament-app)
+- 🔭 I’m currently working on making a 3d printer filament inventory app [Filia Tracker](https://github.com/hunter-goller/Filament-app)
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -25,10 +25,10 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunterg6700&show_icons=true&locale=en&layout=compact" alt="hunterg6700" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter-goller&show_icons=true&locale=en&layout=compact" alt="hunter-goller" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunterg6700&show_icons=true&locale=en" alt="hunterg6700" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-goller&show_icons=true&locale=en" alt="hunter-goller" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterg6700&" alt="hunterg6700" /></p>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hunterg6700"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hunterg6700" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-goller&" alt="hunter-goller" /></p>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hunter-goller"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hunterg6700" /></a></p><br><br>
 
