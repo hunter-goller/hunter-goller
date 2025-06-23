@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hunter Goller</h1>
 <h3 align="center">A passionate developer looking to gain experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-goller&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-goller" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter-goller" alt="hunter-goller" /></a> </p>
 
 - 🔭 I’m currently working on making a 3d printer filament inventory app: [Spooly](https://github.com/hunter-goller/Spooly)
